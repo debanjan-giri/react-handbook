@@ -1,0 +1,99 @@
+React Fundamentals : ✨
+
+----------------React----------------
+Component-based architecture ✨
+jsx ✨
+hoc and pure ✨ 
+Props ✨
+State
+Event Handling
+Conditional Rendering ✨
+Lists and Keys
+component Lifecycle
+Hooks and Custom Hooks
+PropTypes
+React Suspense and Lazy Loading
+Context API
+Synthetic Event
+dom manipulation
+Handling form submissions
+Event handling in React.
+Strict Mode
+Hooks Factory Pattern
+react folder structure
+html and css framework (bootstrap)
+Render Props
+Compound Components
+Controlled vs Uncontrolled Components
+layout flow
+auth flow
+react folder structure
+Error Handling
+Inline styles and Conditional CSS 
+Graceful fallback UI for failed component rendering.
+
+----------------Advanced React----------------
+cloud , GitHub actions , CI/CD
+Hydration: For SSR and pre-rendered content
+Render Phases: Mounting vs Updating vs Unmounting
+webpack , vite ,Babel 
+optimizing images
+NPM 
+Code-splitting with React.lazy vs dynamic imports
+React Profiler API
+Sentry / LogRocket – for runtime error monitoring
+Lighthouse – Web performance auditing
+Web Vitals – FID, LCP, CLS monitoring
+AI/ML in Frontend : using tensorflow.js
+JavaScript Engine Internals
+Progressive Web App
+PurgeCSS 
+tree shaking and minification
+Code Splitting
+socket io
+straming data
+Error Boundaries
+Debouncing and throttling 
+React Concurrent Mode 
+react testing
+react performance
+react best practices
+responsive designs
+WebAssembly
+GraphQL
+Optimization
+    .React memoization: React.memo, useMemo, useCallback.
+    .Understanding React's rendering process.
+    .Lazy loading components with React.lazy and Suspense.
+
+----------------theory------------------
+learn all config file present in react
+understanding how React apps are bundled
+docker and nginx for react deployment
+how react works under the hood
+reconciliation
+performance optimization
+browser core concepts
+browser apis
+unnecessary re-renders
+Reusable code and Controlled code
+React Fiber
+Synthetic Events
+Virtual DOM
+Microfrontends
+Portals
+Profiling and Debugging
+worker and Service workers
+Web Performance Auditing
+
+-------------pkg-------------
+react-router-dom
+    .Dynamic routing.
+    .Nested routes.
+    .Protected routes.
+react query
+redux toolkit or Zustand
+axios
+Storybook
+Formik
+react Virtualized
